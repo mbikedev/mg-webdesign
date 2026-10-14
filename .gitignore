@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Deployment archives (uploaded to Easyhost, not source)
+*.zip
+
+# Local secrets, never commit
+.env
+*.local
